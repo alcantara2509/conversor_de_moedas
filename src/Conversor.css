@@ -1,0 +1,12 @@
+.conversor {
+  padding: 20px;
+  max-width: 300px;
+  box-shadow: 0 4px 8px 0 rgba(31, 31, 31, 0.309);
+  margin: auto 20px;
+}
+
+.btn {
+  background-color: cadetblue;
+  border-color: cadetblue;
+  margin-left: 5px;
+}
